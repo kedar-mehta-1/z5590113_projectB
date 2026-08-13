@@ -1,0 +1,13 @@
+Dataset,Check,Count
+Equity prices,Rows loaded,50300
+Equity prices,Duplicate ticker-date pairs removed,0
+Equity prices,Missing trading dates,1800
+Equity prices,Outlier returns flagged (kept),384
+Crypto prices,Rows loaded,14620
+Crypto prices,Stray 2024-01-01 rows removed,10
+Crypto prices,Rows after cleaning,14610
+Crypto prices,Duplicate ticker-date pairs removed,0
+Crypto prices,Missing calendar dates,0
+News headlines,Rows loaded,149683
+News headlines,Exact duplicate rows removed,2847
+News headlines,Rows after deduplication,146836

@@ -1,0 +1,8 @@
+metric,value,unit,format
+Total return (ITD),0.04778811493248036,%,pct
+CAGR,0.023758293397129426,%,pct
+Annualised volatility,0.17098775609138409,%,pct
+Sharpe ratio,0.13894733716741595,,num
+Max drawdown,-0.2180330891352359,%,pct
+Calmar,0.1089664577581307,,num
+Growth of $1 (net of fees),1.0395053969338366,$,num
